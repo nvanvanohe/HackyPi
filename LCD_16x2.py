@@ -1,6 +1,6 @@
 # The connections about hardware https://how2electronics.com/interfacing-16x2-lcd-display-with-raspberry-pi-pico/
 # The software is variation from https://www.rototron.info/lcd-display-tutorial-for-raspberry-pi/
-# Tested Raspberry Pi Pico W with CircuitPython 9.0.1, 27-03-2024
+# Tested Raspberry Pi Pico W with CircuitPython 9.0.1, 27-03-2024, Nohe
 
 import time
 import board
